@@ -257,4 +257,5 @@ namespace FoodyAPI
             client?.Dispose();
         }
     }
+    // Add some comment
 }
